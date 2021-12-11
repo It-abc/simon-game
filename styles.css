@@ -26,11 +26,15 @@ body {
   border-radius: 20%;
 }
 .startbtn{
-  margin: 5px;
-  height: 50px;
-  width: 100px;
-  border: 2px solid black;
+  margin: 2px;
+  height: 40px;
+  width: 150px;
+  border: 4px solid #808080;
   border-radius: 10%;
+  font-size: 20px;
+  background-color:#FFFFE0;
+  font-style: cursive ;
+  font-weight: 600;
 }
 
 .game-over {
